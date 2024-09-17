@@ -7,8 +7,8 @@ This guide provides instructions on how to install dependencies, run the API ser
 To set up the Python environment and install all required dependencies, follow these steps:
 
 ```bash
-conda create -n llama3_hack python=3.10 -y
-conda activate llama3_hack
+conda create -n raghack python=3.10 -y
+conda activate raghack
 pip install -r requirements.txt
 ```
 
